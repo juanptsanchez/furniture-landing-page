@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github]()
+- Solution URL: [Github](https://github.com/juanptsanchez/furniture-landing-page)
 - Live Site URL: [Netlify](https://furniture-landing-test.netlify.app/)
 
 ### Built with
